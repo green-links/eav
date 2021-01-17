@@ -1,0 +1,11 @@
+{
+    "name": "green-links/eav",
+    "description": "Entity attribute value store manager.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GreenLinks\\Eav\\": "src"
+        }
+    }
+}
